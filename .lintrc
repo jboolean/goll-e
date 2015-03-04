@@ -2,5 +2,5 @@
 linters = jshint
 
 [tool_jshint]
-config = ~julianboilen/jshint-config.json
+config = jshint-config.json
 
